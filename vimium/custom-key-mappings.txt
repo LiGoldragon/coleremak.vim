@@ -10,5 +10,7 @@ mapkey l i
 mapkey L I
 mapkey j e
 mapkey J E
-mapkey T F
 mapkey t f
+mapkey T F
+mapkey G T
+mapkey g t
